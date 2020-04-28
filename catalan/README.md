@@ -33,7 +33,7 @@ These examples use [ModelSim&reg; and Quartus&reg; Prime from Intel FPGA](http:/
 2. Use Visual Studio Code (VSC) to edit and view the design files:
 
     ```sh
-    $ cd CATALAN
+    $ cd catalan
     $ code .
     ```
     Click on the toplevel.vhd file in the left pane to view its contents.
