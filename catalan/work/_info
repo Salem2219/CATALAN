@@ -1,0 +1,322 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Abdullah Salem/Documents/University/Algorithms/Project/catalan
+Ec_ram
+Z0 w1587059893
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Abdullah Salem/Documents/Algorithms in RTL/DynamicAlgorithms/catalan
+Z5 8c_ram.vhd
+Z6 Fc_ram.vhd
+l0
+L5
+V_YW9;8jngZ4A5U=^8AzL:2
+!s100 B3PM5P<U5:HOVK7kW5`;91
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1588093321
+!i10b 1
+Z9 !s108 1588093321.000000
+Z10 !s90 catalan_controller.vhd|catalan_datapath.vhd|catalan_toplevel.vhd|count_up_4bit.vhd|c_ram.vhd|inc_4bit.vhd|isGreater_4bit.vhd|tb.vhd|
+Z11 !s107 tb.vhd|isGreater_4bit.vhd|inc_4bit.vhd|c_ram.vhd|count_up_4bit.vhd|catalan_toplevel.vhd|catalan_datapath.vhd|catalan_controller.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z13 DEx4 work 5 c_ram 0 22 _YW9;8jngZ4A5U=^8AzL:2
+l32
+L10
+Z14 Vnj1oz]QQ20;gS1@YZn>1h1
+Z15 !s100 U@81IF6HA_hCd;TPz_zSJ0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecatalan_controller
+Z16 w1587064169
+R1
+R2
+R3
+R4
+Z17 8catalan_controller.vhd
+Z18 Fcatalan_controller.vhd
+l0
+L5
+Vl3]K:MW:IhLMZ:WH3lk@`3
+!s100 Rei3DME4ZViXH2kd_IWFz3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z19 DEx4 work 18 catalan_controller 0 22 l3]K:MW:IhLMZ:WH3lk@`3
+l13
+L10
+Z20 Vf]cT[gT]QCfKDFfOU<8B23
+Z21 !s100 W6cmGaVCBcC`iDS5=aMg?3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecatalan_datapath
+Z22 w1587070039
+R1
+R2
+R3
+R4
+Z23 8catalan_datapath.vhd
+Z24 Fcatalan_datapath.vhd
+l0
+L5
+Vm]D`K7Bj_D9m1]be3nJJO1
+!s100 P6afR>7@k:nW[4706;5:62
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z25 DEx4 work 16 catalan_datapath 0 22 m]D`K7Bj_D9m1]be3nJJO1
+l35
+L12
+Z26 VT=CzlS@;HEHMC`S=FljGa2
+Z27 !s100 hX`z<31?oNZ=83Zol8K3M0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecatalan_toplevel
+Z28 w1587070107
+R1
+R2
+R3
+R4
+Z29 8catalan_toplevel.vhd
+Z30 Fcatalan_toplevel.vhd
+l0
+L5
+VHT8m?6Rj8n`_6^60L4KIk0
+!s100 d6gWiPNa;m:ncVh5>Hfzd0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z31 DEx4 work 16 catalan_toplevel 0 22 HT8m?6Rj8n`_6^60L4KIk0
+l25
+L11
+Z32 V:2[ILKi<[4=d9`5W6LdXj2
+Z33 !s100 UBAk?k=feRi;fQ^XYX>Z33
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecount_up_4bit
+Z34 w1587063094
+R1
+R2
+R3
+R4
+Z35 8count_up_4bit.vhd
+Z36 Fcount_up_4bit.vhd
+l0
+L5
+VM5DklMIcCh1<35cAAOg<i0
+!s100 `HiYJLgOKTGYk192ALf8]3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z37 DEx4 work 13 count_up_4bit 0 22 M5DklMIcCh1<35cAAOg<i0
+l13
+L11
+Z38 VA;R<BMlNezzRIcU^?i:m_3
+Z39 !s100 Q=V=n?hlGaHoiEUFn<XBN2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Einc_4bit
+Z40 w1585086931
+R1
+R2
+R3
+R4
+Z41 8inc_4bit.vhd
+Z42 Finc_4bit.vhd
+l0
+L5
+V?8Rk32jfHH1:?gHGdj0Cb1
+!s100 Ak@M=gWbXN8QG;JZ=bW9e1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z43 DEx4 work 8 inc_4bit 0 22 ?8Rk32jfHH1:?gHGdj0Cb1
+l12
+L10
+Z44 VDbbk<5a6fWfM5YNL7l=4^1
+Z45 !s100 fU7[a?X<jK7hCYcYn2BU[1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Eisgreater_4bit
+Z46 w1587063035
+R1
+R2
+R3
+R4
+Z47 8isGreater_4bit.vhd
+Z48 FisGreater_4bit.vhd
+l0
+L5
+VDhf300LH]fdKz8<?zEVUk0
+!s100 3a?OjGe?=R9MJ>6bm]INR1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R1
+R2
+R3
+Z49 DEx4 work 14 isgreater_4bit 0 22 Dhf300LH]fdKz8<?zEVUk0
+l11
+L10
+Z50 Vd<<bX54e]SC;a5i^Ph[Sk1
+Z51 !s100 Ja=cP[WKb>oCU^mnRjRZJ0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb
+Z52 w1588093319
+R1
+R2
+R3
+R4
+Z53 8tb.vhd
+Z54 Ftb.vhd
+l0
+L5
+VL^[ckWo8EGI[5oA?F;_SY1
+!s100 Q:RVzIzURc13hmAn2TASO1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Abehav
+R1
+R2
+R3
+DEx4 work 2 tb 0 22 L^[ckWo8EGI[5oA?F;_SY1
+l19
+L8
+VFgOSHJA6LhinClAjL<l6_2
+!s100 =b1zK[03o9Y0X3ANj38U@0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
